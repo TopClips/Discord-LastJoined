@@ -21,7 +21,7 @@ Full tutorial on my YouTube Channel! [You can veiw it here](https://youtu.be/43B
 Copy the link of the webpage and paste it into Uptime Robot to keep the bot running 24/7
 
 ## Liscence
-This Discord Bot Is Distributed and Coded By TopClips#3240 and can be used by anyone. there is only 1 rule. You Are Not Allowed To Change The Discord Bots Status, I claim the right to taking any bots that break this rule offline. By Forking this you agree to this.  
+This Discord Bot Is Distributed and Coded By TopClips#3240 and can be used by anyone. You Are Not Allowed To Change The Discord Bots Status, I claim the right to taking any bots that break this rule offline. By Forking this you agree to this.  
 
 ## HELP
 [SUPPORT SERVER](https://discord.gg/PgKGAPdJ2J)
