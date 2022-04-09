@@ -27,4 +27,4 @@ SUPPORT SERVER https://discord.gg/PgKGAPdJ2J
 
 FORK ME ON REPLIT: https://replit.com/@TopClips/LastJoined-2?v=1
 
-https://media.discordapp.net/attachments/957106213785600010/961897974420615188/IMG_1462.png
+Proof: https://media.discordapp.net/attachments/957106213785600010/961897974420615188/IMG_1462.png
