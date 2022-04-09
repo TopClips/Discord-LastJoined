@@ -5,7 +5,7 @@ This discord bot is designed to help users by creating a voice channel wich alwa
 ![Proof](B98E0A52-3F0D-4F86-861C-B047F8C2F7D5.jpeg)
 
 ## SETUP
-Full tutorial coming soon on [my YouTube Channel](https://youtube.com/channel/UCco9kHHvnDttfRMDy8uaS-A)!
+Full tutorial on my YouTube Channel! [You can veiw it here](https://youtu.be/43B4TybHjBo)!
 
 1 - Create A VC. You can call it anything then copy the ID of the VC an paste it into index.js where it says "Your Vc Id"
 
