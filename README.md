@@ -1,10 +1,11 @@
 # VERSION 1.0
 
 ## ABOUT
-This discord bot is designed to help users by creating a voice channel wich always displays the last joined user of a discord server in a vc. It can only run on replit. https://replit.com/@TopClips/LastJoined-2?v=1
+This discord bot is designed to help users by creating a voice channel wich always displays the last joined user of a discord server in a vc. It can only run on replit. You can run it [here](https://replit.com/@TopClips/LastJoined-2?v=1)!
+![Proof](B98E0A52-3F0D-4F86-861C-B047F8C2F7D5.jpeg)
 
 ## SETUP
-Full tutorial coming soon on https://youtube.com/channel/UCco9kHHvnDttfRMDy8uaS-A
+Full tutorial coming soon on [my YouTube Channel](https://youtube.com/channel/UCco9kHHvnDttfRMDy8uaS-A)!
 
 1 - Create A VC. You can call it anything then copy the ID of the VC an paste it into index.js where it says "Your Vc Id"
 
@@ -23,8 +24,6 @@ Copy the link of the webpage and paste it into Uptime Robot to keep the bot runn
 This Discord Bot Is Distributed and Coded By TopClips#3240 and can be used by anyone. there is only 1 rule. You Are Not Allowed To Change The Discord Bots Status, I claim the right to taking any bots that break this rule offline. By Forking this you agree to this.  
 
 ## HELP
-SUPPORT SERVER https://discord.gg/PgKGAPdJ2J
+[SUPPORT SERVER](https://discord.gg/PgKGAPdJ2J)
 
-FORK ME ON REPLIT: https://replit.com/@TopClips/LastJoined-2?v=1
-
-![Proof](B98E0A52-3F0D-4F86-861C-B047F8C2F7D5.jpeg)
+[FORK ME ON REPLIT](https://replit.com/@TopClips/LastJoined-2?v=1)
