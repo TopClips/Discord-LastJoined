@@ -1,4 +1,4 @@
-## VERSION 1.0
+# VERSION 1.0
 
 ## ABOUT
 This discord bot is designed to help users by creating a voice channel wich always displays the last joined user of a discord server in a vc. It can only run on replit. https://replit.com/@TopClips/LastJoined-2?v=1
@@ -27,4 +27,4 @@ SUPPORT SERVER https://discord.gg/PgKGAPdJ2J
 
 FORK ME ON REPLIT: https://replit.com/@TopClips/LastJoined-2?v=1
 
-Proof: https://media.discordapp.net/attachments/957106213785600010/961897974420615188/IMG_1462.png
+![Proof](https://media.discordapp.net/attachments/957106213785600010/961897974420615188/IMG_1462.png)
