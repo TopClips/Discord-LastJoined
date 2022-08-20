@@ -1,5 +1,5 @@
 <h1 align="center">Last Joined</h1>
-<p align="center">Thanks For 1 Star 🫤</p>
+<p align="center">Thanks For 2 Stars 🫤</p>
 
 ## ✨Latest Updates
 
