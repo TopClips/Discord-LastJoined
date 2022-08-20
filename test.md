@@ -12,15 +12,17 @@ Fixed Some Bugs And Stuff
 
 ## 📝 Tutorial
 
-1 - Create A VC. You can call it anything then copy the ID of the VC an paste it into index.js where it says "VC ID"
+1 - Fork the repo from [THIS LINK](https://repl.it/topclips/lastjoined)
 
-2 - Create a secret and call it "token" then paste your token into it
+2 - Create A VC. You can call it anything then copy the ID of the VC an paste it into index.js where it says "VC ID"
 
-3 - Turn on all of the PRIVALIDGED Gateway Intents  on the discord developer portal
+3 - Create a secret and call it "token" then paste your token into it
 
-4 - Invite the bot! Make sure you give it Admin Perms
+4 - Turn on all of the PRIVALIDGED Gateway Intents  on the discord developer portal
 
-5 - Run The Discord Bot
+5 - Invite the bot! Make sure you give it Admin Perms
+
+6 - Run The Discord Bot
 
 ## 🕰 24/7 HOSTING
 Copy the link of the webpage and paste it into Uptime Robot to keep the bot running 24/7
