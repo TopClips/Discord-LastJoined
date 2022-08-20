@@ -25,3 +25,4 @@ Copy the link of the webpage and paste it into Uptime Robot to keep the bot runn
 [SUPPORT SERVER](https://discord.gg/Nb4QGk8EgW)
 
 [![Remix on Replit](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://replit.com/@generalsupport/LastJoined)
+[![Image](https://images-ext-2.discordapp.net/external/EHe3sKxgIVlGoD4BenYpZm_MPZPQAVAjBBzj0quMdJM/https/repository-images.githubusercontent.com/479591892/b16ffa74-4b65-4b1c-894c-1593a2df1c60)
