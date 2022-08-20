@@ -25,7 +25,7 @@ Fixed Some Bugs And Stuff
 6 - Run The Discord Bot
 
 ## 🕰 24/7 HOSTING
-Copy the link of the webpage and paste it into Uptime Robot to keep the bot running 24/7
+Copy the link of the webpage loaded and paste it into an uptime moniter to keep the bot running 24/7. 
 
 
 ## 📝 [Support Server](https://discord.gg/Nb4QGk8EgW)
