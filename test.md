@@ -12,32 +12,33 @@ Fixed Some Bugs And Stuff
 
 ## 📝 Tutorial
 
-A Tutorial has been uploaded on YouTube, Watch it by clicking on the image down below
+1 - Create A VC. You can call it anything then copy the ID of the VC an paste it into index.js where it says "VC ID"
 
-[![Advanced Discord Music Bot with Web Dashboard | Spotify Support](https://img.youtube.com/vi/p4lP96Tiv9s/maxresdefault.jpg)](https://www.youtube.com/watch?v=p4lP96Tiv9s)
+2 - Create a secret and call it "token" then paste your token into it
 
-Repl.it [Tutorial](https://github.com/SudhanPlayz/Discord-MusicBot/wiki/Installation-on-Repl-it)
+3 - Turn on all of the PRIVALIDGED Gateway Intents  on the discord developer portal
 
-VPS / Server [Tutorial](https://github.com/SudhanPlayz/Discord-MusicBot/wiki/Installation-on-a-Linux-server)
+4 - Invite the bot! Make sure you give it Admin Perms
 
-## 📝 [Support Server](https://discord.gg/sbySMS7m3v)
+5 - Run The Discord Bot
+
+## 🕰 24/7 HOSTING
+Copy the link of the webpage and paste it into Uptime Robot to keep the bot running 24/7
+
+
+## 📝 [Support Server](https://discord.gg/Nb4QGk8EgW)
 
 If you have major coding issues with this bot, please join and ask for help.
 
 ## 📸 Screenshots
 
-<div align="left"><img src="/assets/Screenshot_1.png"></div><div align="center"><img src="/assets/Screenshot_2.png"></div><div align="right"><img src="/assets/Screenshot_3.png"></div>
-
-<div align="center"><img src="/assets/feature.png"></div>
+<div align="left"><img src="https://media.discordapp.net/attachments/973143883850584114/1010551848576491520/IMG_5939.png"></div>
 
 ## 💨 Run the projects
 
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/SudhanPlayz/Discord-MusicBot)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SudhanPlayz/Discord-MusicBot)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/SudhanPlayz/Discord-MusicBot)
-[![Docker Pulls](https://img.shields.io/docker/pulls/darrenofficial/dmusicbot.svg)](https://hub.docker.com/r/darrenofficial/dmusicbot/)
+[![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/topclips/lastjoined)
 
-> Note: If you are hosting your bot in heroku, Please consider upgrading your dyno for running dashboard & bot simultaneously because in free dyno it'll run out of memory(as there are two workers). If you want to run only the bot, turn off the `web` dyno.
+
 
 ## ✨ Contributors
 
