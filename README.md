@@ -1,4 +1,8 @@
-# VERSION 1.1
+# VERSION 1.2
+
+# ChangeLog
+> Fixed Bugs
+> Made bot look better
 
 ## ABOUT
 This discord bot is designed to help users by creating a voice channel wich always displays the last joined user of a discord server in a VC.
