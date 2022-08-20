@@ -12,7 +12,7 @@ Fixed Some Bugs And Stuff
 
 ## 📝 Tutorial
 
-1 - Fork the repo from [THIS LINK](https://repl.it/topclips/lastjoined)
+1 - Fork the repo from [THIS LINK](https://replit.com/@GeneralSupport/LastJoined)
 
 2 - Create A VC. You can call it anything then copy the ID of the VC an paste it into index.js where it says "VC ID"
 
@@ -38,7 +38,7 @@ If you have major coding issues with this bot, please join and ask for help.
 
 ## 💨 Run the projects
 
-[![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/topclips/lastjoined)
+[![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://replit.com/@GeneralSupport/LastJoined)
 
 
 
