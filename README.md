@@ -1,7 +1,7 @@
 # VERSION 1.0
 
 ## ABOUT
-This discord bot is designed to help users by creating a voice channel wich always displays the last joined user of a discord server in a vc. It can only run on replit. You can run it [here]
+This discord bot is designed to help users by creating a voice channel wich always displays the last joined user of a discord server in a vc. It can only run on replit. You can run it
 
 [![Remix on Replit](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://replit.com/@TopClips/LastJoined-2?v=1)
 ## SETUP
