@@ -8,9 +8,9 @@ This discord bot is designed to help users by creating a voice channel wich alwa
 ## SETUP
 Full tutorial on my YouTube Channel! [You can veiw it here](https://youtu.be/43B4TybHjBo)!
 
-1 - Create A VC. You can call it anything then copy the ID of the VC an paste it into index.js where it says "Your Vc Id"
+1 - Create A VC. You can call it anything then copy the ID of the VC an paste it into index.js where it says "VC ID"
 
-2 - Create a secret and call it "TOKEN" then paste your token into it
+2 - Create a secret and call it "token" then paste your token into it
 
 3 - Turn on all of the PRIVALIDGED Gateway Intents  on the discord developer portal
 
