@@ -46,7 +46,7 @@ If you have major coding issues with this bot, please join and ask for help.
 
 ## ✨ Contributors
 
-Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONTRIBUTING.md)
+Contributions are always welcomed :D
 
 <a href="https://github.com/topclips/lastjoined/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=topclips/lastjoined" />
