@@ -1,5 +1,7 @@
 <h1 align="center">Last Joined</h1>
-<p align="center">Thanks For 2 Stars 🫤</p>
+<p align="center">Thanks For The Support!</p>
+<div align="center"><img src="https://img.shields.io/github/stars/TopClips/LastJoined?style=social"></div><div align="center"><img src="https://img.shields.io/github/issues/TopClips/LastJoined?style=social"</div>
+
 
 ## ✨Latest Updates
 
