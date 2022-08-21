@@ -1,7 +1,7 @@
 <h1 align="center">Last Joined</h1>
 <p align="center">Thanks For The Support!</p>
 <div align="center"><img src="https://img.shields.io/github/stars/TopClips/LastJoined?style=social"></div><div align="center"><img src="https://img.shields.io/github/issues/TopClips/LastJoined?style=social"</div>
-
+<div align="left">
 
 ## ✨Latest Updates
 
@@ -53,4 +53,4 @@ Contributions are always welcomed :D
 </a>
 
 
-Made with Node.js :heart:!
+Made with Node.js :heart:!</div>
